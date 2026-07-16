@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Subodha Sandawaruni
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1200&color=7F9CF5&center=true&vCenter=true&width=520&lines=Hi+I'm+Subodha;Full-Stack+Developer;ASP.NET+%2B+JS+Enthusiast;Problem+Solver)
 
 ### 🚀 Computer Science Student & Full-Stack Developer
 

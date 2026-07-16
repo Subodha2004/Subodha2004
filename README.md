@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 - 🎓 Studying Computer Science — currently working through data structures, parallel computing, and web development
-- 💻 Comfortable across the stack — backend architecture with **ASP.NET Core** and frontend interfaces with **HTML/CSS/JS**
+- 💻 Comfortable across the stack — backend architecture with ASP.NET Core, frontend built with HTML, CSS, JavaScript, and React
 - 🤝 Contributing to an **AI-Powered Recruitment and Talent Management Platform**, owning the Admin and Analytics modules
 - 📫 Reach me at: **ssandawaruni@gmail.com**
 

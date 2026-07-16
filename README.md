@@ -4,7 +4,7 @@
 
 *Building clean, well-structured backend systems and polished frontend interfaces.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7aa2f7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Subodha2004&label=Profile%20Views&color=7aa2f7&style=flat-square)
 
 ---
 
@@ -36,10 +36,10 @@ Full-stack contribution to an AI-powered recruitment platform — backend built 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Subodha2004&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodha2004&layout=compact&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subodha2004&theme=tokyonight)
 
 ---
 

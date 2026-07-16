@@ -44,6 +44,10 @@ Full-stack contribution to an AI-powered recruitment platform — backend built 
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Subodha2004/Subodha2004/output/github-contribution-grid-snake.svg)
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subodha-sandawaruni-00b390321/)

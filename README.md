@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1200&color=7F9CF5&center=true&vCenter=true&width=520&lines=Hi+I'm+Subodha;Full-Stack+Developer;Problem+Solver)
 
-### 🚀 Computer Science Student & Full-Stack Developer
+### 🚀 Computer Science Undergraduate & Full-Stack Developer
 
 *Building clean, well-structured backend systems and polished frontend interfaces.*
 
@@ -11,17 +11,11 @@
 
 ## 💫 About Me
 
-- 🎓 Studying Computer Science — currently working through data structures, parallel computing, and web development
-- 💻 Comfortable across the stack — backend architecture with ASP.NET Core, frontend built with HTML, CSS, JavaScript, and React
-- 🤝 Contributing to an **AI-Powered Recruitment and Talent Management Platform**, owning the Admin and Analytics modules
-- 📫 Reach me at: **ssandawaruni@gmail.com**
-
-## 🌟 Featured Project
-
-📂 **[RecruitAI — Admin & Analytics Module](https://github.com/sahannavo/recruitment-platform)**
-Full-stack contribution to an AI-powered recruitment platform — backend built with ASP.NET Core 8 Web API (Generic Repository + Unit of Work pattern, role-based access control, audit logging, analytics with date-range filtering), plus frontend work across the shared HTML/CSS/JS interface.
-
----
+- 🎓 Third-year Computer Science undergraduate, working through data structures, parallel computing, web development, and advanced database systems
+- 💻 Comfortable across the stack: backend architecture with ASP.NET Core and Django REST Framework, frontend with HTML, CSS, JavaScript, and React
+- 📱 Exploring mobile development with Flutter, Firebase, and React Native
+- 🌐 Working in a bilingual (Sinhala / English) academic context
+- 📫 Reach me at: **ssandawaruni@gmail.com** · [LinkedIn](https://lnkd.in/p/gYFSABuD)
 
 ## 🧰 Tech Stack
  
